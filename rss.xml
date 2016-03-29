@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nixor College]]></title>
+        <description><![CDATA[Nixor College]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 05:13:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Established in 2008, Nixor College is a certified A Level school (registration number PK649). It is recognized by the British Council as one of the best A Level colleges in the country because of its comprehensive approach to a high quality educational program.</p>]]></description>
+            <link>undefinedestablished-in-2008-nixor-college-is-a-certified-a-level-sc/index.html</link>
+            <guid isPermaLink="false">5a26b8c1-0abb-42f9-a099-01ff82de4500</guid>
+            <pubDate>Tue, 29 Mar 2016 05:10:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
