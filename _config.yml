@@ -1,0 +1,28 @@
+name: Nixor College
+favicon: null
+layout_spectrum: 0.037419940112158656
+typography_spectrum: 0.7899674498476088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.039002037374302745
+  lightness: 0.41374664776958525
+  saturation: 0.7801683964207768
+  rhythmicContrast: 0.5180908557958901
+purpose: []
