@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nixor College]]></title>
         <description><![CDATA[Nixor College]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nixor-college/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 05:13:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 05:15:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nixor-college/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Vision</p>]]></description>
+            <link>https://thegrid.ai/nixor-college/f6982a7e-16f6-456c-ada9-282ffd9214f1/index.html</link>
+            <guid isPermaLink="false">f6982a7e-16f6-456c-ada9-282ffd9214f1</guid>
+            <pubDate>Tue, 29 Mar 2016 05:15:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Established in 2008, Nixor College is a certified A Level school (registration number PK649). It is recognized by the British Council as one of the best A Level colleges in the country because of its comprehensive approach to a high quality educational program.</p>]]></description>
-            <link>undefinedestablished-in-2008-nixor-college-is-a-certified-a-level-sc/index.html</link>
+            <link>https://thegrid.ai/nixor-college/established-in-2008-nixor-college-is-a-certified-a-level-sc/index.html</link>
             <guid isPermaLink="false">5a26b8c1-0abb-42f9-a099-01ff82de4500</guid>
             <pubDate>Tue, 29 Mar 2016 05:10:15 GMT</pubDate>
         </item>
